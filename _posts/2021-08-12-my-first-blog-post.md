@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: *title*
+date: 2021-08-12
 ---
 
 Draft Draft Draft Draft Draft Draft
